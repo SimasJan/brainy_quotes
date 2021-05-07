@@ -1,4 +1,6 @@
+.
+..
+.DS_Store
 .git
-README.md
-brainy_quotes.py
-requirements.txt
+.gitignore
+brainy_quotes
